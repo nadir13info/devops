@@ -2,3 +2,4 @@ THIS IS SIMPLE FILE 1
 
 FILE REVERT 1
 This is for comparaison
+new change stash , in file 1

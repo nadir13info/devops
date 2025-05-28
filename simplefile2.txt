@@ -4,3 +4,4 @@ MODIFIED !!!!
 
 REVERT 2
 This is for comparaison , this is file 2
+new change stash , in file 2
